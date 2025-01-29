@@ -2,7 +2,7 @@
 
 This repository contains data and code accompanying the paper:
 
-> **Judicial AI**: Mitigating Automation Bias and Preserving Clinical Autonomy through Contrasting Explanations
+> From Oracular to Judicial: Enhancing Clinical Decision Making through Contrasting Explanations and a Novel Interaction Protocol
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -115,7 +115,7 @@ If you use these outputs, please reference the paper and cite appropriately.
                Enea Parimbelli and
                Giovanni Andrea La Maida and
                Enrico Gallazzi},
-  title     = {Judicial {AI}: (Insert Full Title Here)},
+  title     = {From Oracular to Judicial: Enhancing Clinical Decision Making through Contrasting Explanations and a Novel Interaction Protocol},
   booktitle = {Proceedings of the 30th International Conference on Intelligent User Interfaces (IUI '25)},
   year      = {2025},
   location  = {Cagliari, Italy},
