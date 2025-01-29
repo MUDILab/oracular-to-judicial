@@ -105,3 +105,19 @@ Key summary statistics, effect sizes, and plots will be saved or displayed as th
 - Plot images (e.g., `non_inferiority_glass_delta_*.png`, `confidence_judicial.png`, etc.) that illustrate effect sizes and confidence intervals.
 
 If you use these outputs, please reference the paper and cite appropriately.
+
+## Cite
+@inproceedings{Cabitza2025JudicialAI,
+  author    = {Federico Cabitza and
+               Lorenzo Famiglini and
+               Caterina Fregosi and
+               Samuele Pe and
+               Enea Parimbelli and
+               Giovanni Andrea La Maida and
+               Enrico Gallazzi},
+  title     = {Judicial {AI}: (Insert Full Title Here)},
+  booktitle = {Proceedings of the 30th International Conference on Intelligent User Interfaces (IUI '25)},
+  year      = {2025},
+  location  = {Cagliari, Italy},
+}
+
