@@ -5,9 +5,6 @@ This script reads anonymized questionnaire data and calibration data,
 merges and preprocesses them, then performs various statistical tests
 (Wilcoxon, McNemar, bootstrap-based effect sizes) to analyze the impact
 of AI/XAI in clinical settings.
-
-Author: [Your Name]
-Date: [Date]
 """
 
 import pandas as pd
